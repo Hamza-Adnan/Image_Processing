@@ -1,0 +1,10 @@
+C:\Users\hamza\source\repos\Assignment3_Hamza_Adnan\ImageProcessor\bin\Debug\IPSun.exe.config
+C:\Users\hamza\source\repos\Assignment3_Hamza_Adnan\ImageProcessor\bin\Debug\IPSun.exe
+C:\Users\hamza\source\repos\Assignment3_Hamza_Adnan\ImageProcessor\bin\Debug\IPSun.pdb
+C:\Users\hamza\source\repos\Assignment3_Hamza_Adnan\ImageProcessor\obj\Debug\ip.csprojAssemblyReference.cache
+C:\Users\hamza\source\repos\Assignment3_Hamza_Adnan\ImageProcessor\obj\Debug\Image_Processor.Form1.resources
+C:\Users\hamza\source\repos\Assignment3_Hamza_Adnan\ImageProcessor\obj\Debug\IPSun.Properties.Resources.resources
+C:\Users\hamza\source\repos\Assignment3_Hamza_Adnan\ImageProcessor\obj\Debug\ip.csproj.GenerateResource.cache
+C:\Users\hamza\source\repos\Assignment3_Hamza_Adnan\ImageProcessor\obj\Debug\ip.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\Assignment3_Hamza_Adnan\ImageProcessor\obj\Debug\IPSun.exe
+C:\Users\hamza\source\repos\Assignment3_Hamza_Adnan\ImageProcessor\obj\Debug\IPSun.pdb

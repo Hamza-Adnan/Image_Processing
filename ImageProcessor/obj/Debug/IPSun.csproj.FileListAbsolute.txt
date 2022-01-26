@@ -1,0 +1,10 @@
+C:\Users\hamza Adnan\source\repos\IPSun\IPSun\bin\Debug\IPSun.exe.config
+C:\Users\hamza Adnan\source\repos\IPSun\IPSun\bin\Debug\IPSun.exe
+C:\Users\hamza Adnan\source\repos\IPSun\IPSun\bin\Debug\IPSun.pdb
+C:\Users\hamza Adnan\source\repos\IPSun\IPSun\obj\Debug\IPSun.csprojAssemblyReference.cache
+C:\Users\hamza Adnan\source\repos\IPSun\IPSun\obj\Debug\IPSun.Form1.resources
+C:\Users\hamza Adnan\source\repos\IPSun\IPSun\obj\Debug\IPSun.Properties.Resources.resources
+C:\Users\hamza Adnan\source\repos\IPSun\IPSun\obj\Debug\IPSun.csproj.GenerateResource.cache
+C:\Users\hamza Adnan\source\repos\IPSun\IPSun\obj\Debug\IPSun.csproj.CoreCompileInputs.cache
+C:\Users\hamza Adnan\source\repos\IPSun\IPSun\obj\Debug\IPSun.exe
+C:\Users\hamza Adnan\source\repos\IPSun\IPSun\obj\Debug\IPSun.pdb

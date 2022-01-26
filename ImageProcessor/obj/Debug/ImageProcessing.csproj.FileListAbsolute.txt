@@ -1,0 +1,40 @@
+C:\Users\hamza Adnan\source\repos\IPSun\IPSun\bin\Debug\IPSun.exe.config
+C:\Users\hamza Adnan\source\repos\IPSun\IPSun\bin\Debug\IPSun.exe
+C:\Users\hamza Adnan\source\repos\IPSun\IPSun\bin\Debug\IPSun.pdb
+C:\Users\hamza Adnan\source\repos\IPSun\IPSun\obj\Debug\ImageProcessing.csprojAssemblyReference.cache
+C:\Users\hamza Adnan\source\repos\IPSun\IPSun\obj\Debug\IPSun.Form1.resources
+C:\Users\hamza Adnan\source\repos\IPSun\IPSun\obj\Debug\IPSun.Properties.Resources.resources
+C:\Users\hamza Adnan\source\repos\IPSun\IPSun\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\hamza Adnan\source\repos\IPSun\IPSun\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\hamza Adnan\source\repos\IPSun\IPSun\obj\Debug\IPSun.exe
+C:\Users\hamza Adnan\source\repos\IPSun\IPSun\obj\Debug\IPSun.pdb
+C:\Users\hamza\source\repos\IPSun\IPSun\obj\Debug\ImageProcessing.csprojAssemblyReference.cache
+C:\Users\hamza\source\repos\IPSun\IPSun\obj\Debug\IPSun.Properties.Resources.resources
+C:\Users\hamza\source\repos\IPSun\IPSun\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\hamza\source\repos\IPSun\IPSun\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\IPSun\IPSun\obj\Debug\IPSun.exe
+C:\Users\hamza\source\repos\IPSun\IPSun\obj\Debug\IPSun.pdb
+C:\Users\hamza\source\repos\IPSun\IPSun\bin\Debug\IPSun.exe.config
+C:\Users\hamza\source\repos\IPSun\IPSun\bin\Debug\IPSun.exe
+C:\Users\hamza\source\repos\IPSun\IPSun\bin\Debug\IPSun.pdb
+\\vmware-host\Shared Folders\Desktop\IPSun\IPSun\bin\Debug\IPSun.exe.config
+\\vmware-host\Shared Folders\Desktop\IPSun\IPSun\bin\Debug\IPSun.exe
+\\vmware-host\Shared Folders\Desktop\IPSun\IPSun\bin\Debug\IPSun.pdb
+\\vmware-host\Shared Folders\Desktop\IPSun\IPSun\obj\Debug\ImageProcessing.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\IPSun\IPSun\obj\Debug\IPSun.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\IPSun\IPSun\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop\IPSun\IPSun\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\IPSun\IPSun\obj\Debug\IPSun.exe
+\\vmware-host\Shared Folders\Desktop\IPSun\IPSun\obj\Debug\IPSun.pdb
+\\vmware-host\Shared Folders\Desktop\IPSun\IPSun\obj\Debug\Image_Processor.Form1.resources
+C:\Users\hamza\Desktop\IPSun\IPSun\bin\Debug\IPSun.exe.config
+C:\Users\hamza\Desktop\IPSun\IPSun\bin\Debug\IPSun.exe
+C:\Users\hamza\Desktop\IPSun\IPSun\bin\Debug\IPSun.pdb
+C:\Users\hamza\Desktop\IPSun\IPSun\obj\Debug\ImageProcessing.csprojAssemblyReference.cache
+C:\Users\hamza\Desktop\IPSun\IPSun\obj\Debug\Image_Processor.Form1.resources
+C:\Users\hamza\Desktop\IPSun\IPSun\obj\Debug\IPSun.Properties.Resources.resources
+C:\Users\hamza\Desktop\IPSun\IPSun\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\hamza\Desktop\IPSun\IPSun\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\hamza\Desktop\IPSun\IPSun\obj\Debug\IPSun.exe
+C:\Users\hamza\Desktop\IPSun\IPSun\obj\Debug\IPSun.pdb
+C:\Users\hamza\source\repos\IPSun\IPSun\obj\Debug\Image_Processor.Form1.resources
